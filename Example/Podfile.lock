@@ -1,0 +1,19 @@
+PODS:
+  - EggRating (0.1.0):
+    - RateView
+  - RateView (1.2)
+
+DEPENDENCIES:
+  - EggRating (from `../`)
+
+EXTERNAL SOURCES:
+  EggRating:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EggRating: f4b0e73043f44acc32c928586ef6bcaa671ab525
+  RateView: d4d12e9bb76dc23a77a56f4e5c5fb530a3f3f998
+
+PODFILE CHECKSUM: 81eb6d20677b93f54765c2ce804b99f4f0609e2a
+
+COCOAPODS: 1.1.1
